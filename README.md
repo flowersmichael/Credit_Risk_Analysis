@@ -9,63 +9,63 @@ The purpose of this analysis is to apply machine learning to solve the real-worl
 Using bulleted lists, describe the **balanced accuracy scores** and the **precision** and **recall** scores of all six machine learning models. Use screenshots of your outputs to support your results.
 
 ### Naive Random Oversampling
-Balanced Accuracy:
+Balanced Accuracy: 0.64
 
-Precision:
+Precision: 0.99
 
-Recall:
+Recall: 0.65
 
 ![image](https://user-images.githubusercontent.com/74375396/118431437-34f34680-b68b-11eb-8def-e3d56a175732.png)
 
 
 ### SMOTE Oversampling
-Balanced Accuracy:
+Balanced Accuracy: 0.63
 
-Precision:
+Precision: 0.99
 
-Recall:
+Recall: 0.67
 
 ![image](https://user-images.githubusercontent.com/74375396/118431758-e98d6800-b68b-11eb-8307-cc5bf24428ae.png)
 
 
 ### Undersampling
-Balanced Accuracy:
+Balanced Accuracy: 0.52
 
-Precision:
+Precision: 0.99
 
-Recall:
+Recall: 0.44
 
 ![image](https://user-images.githubusercontent.com/74375396/118431838-117ccb80-b68c-11eb-87df-26ea28ac2177.png)
 
 
 ### Combination Sampling
-Balanced Accuracy:
+Balanced Accuracy: 0.52
 
-Precision:
+Precision: 0.99
 
-Recall:
+Recall: 0.58
 
 ![image](https://user-images.githubusercontent.com/74375396/118431895-3113f400-b68c-11eb-9ad7-65d4c99015b1.png)
 
 
 ### Balanced Random Forest Classifier
-Balanced Accuracy:
+Balanced Accuracy: 0.99
 
-Precision:
+Precision: 1
 
-Recall:
+Recall: 1
 
 ![image](https://user-images.githubusercontent.com/74375396/118432197-d4650900-b68c-11eb-861a-26f199d02ae1.png)
 
 
 ### Easy Ensemble AdaBoost Classifier
-Balanced Accuracy:
+Balanced Accuracy: 
 
-Precision:
+Precision: 
 
-Recall:
+Recall: 
 
-![image](https://user-images.githubusercontent.com/74375396/118432469-81d81c80-b68d-11eb-8ad7-9adc1f28b784.png)
+
 
 
 
