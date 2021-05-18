@@ -41,4 +41,10 @@ Using bulleted lists, describe the **balanced accuracy scores** and the **precis
 
 
 ## Summary
+For credit risk, from a lender's perspective, while it is important from a time and resources perspective to not label too many low-risk loans as possibly-high risk, the "false positive" risk can be addressed with closer scrutiny in further steps. 
+
+The most important quality, however, is to not evaluate actual high-risk loans incorrectly, and to label them low-risk. Enough bad loans can ruin a lender.
+
+From this perspective, the best model is the Easy Ensemble AdaBoost Classifier, which predicted a low number of loans as low-risk that were actually high-risk.
+
 
